@@ -1,7 +1,7 @@
-# Task Note — Task Name
+# 任务笔记 — 任务名称
 
-## Requirements
+## 要求
 
-## My Solution / Notes
+## 我的解法 / 笔记
 
-## Submission Link
+## 提交链接

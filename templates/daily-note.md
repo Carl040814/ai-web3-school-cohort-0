@@ -1,21 +1,21 @@
-# Daily Note — YYYY-MM-DD
+# 每日笔记 — YYYY-MM-DD
 
-## Today's Plan
+## 今日计划
 
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3
+- [ ] 任务 1
+- [ ] 任务 2
+- [ ] 任务 3
 
-## Notes
+## 学习记录
 
-## Check-in Draft
+## 打卡草稿
 
-## Links
+## 链接
 
 - WCB Learning: https://web3career.build/zh/programs/AI-Web3-School#tab=learning
 - Handbook: https://aiweb3.school/zh/handbook/
 
-## Submitted
+## 提交状态
 
-- [ ] Check-in submitted
-- Submission link:
+- [ ] 已提交打卡
+- 提交链接：

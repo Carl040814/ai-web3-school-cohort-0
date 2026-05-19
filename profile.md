@@ -1,12 +1,12 @@
-# Learner Profile
+# 学员画像
 
-## Basic Info
+## 基本信息
 
-- **AI Background**: Some knowledge, treat as beginner
-- **Web3 Background**: Some knowledge, treat as beginner
-- **Programming**: No code experience
-- **Goal**: Aiming to become a developer
-- **Daily Time**: 5+ hours
-- **Language**: Chinese & English mixed
-- **Started**: 2026-05-19
-- **Cohort**: Cohort 0
+- **AI 基础**：有基础了解，按新手对待
+- **Web3 基础**：有基础了解，按新手对待
+- **编程能力**：无代码经验
+- **目标方向**：开发
+- **每日投入时间**：5 小时以上
+- **输出语言**：中英混合
+- **开始日期**：2026-05-19
+- **期数**：Cohort 0

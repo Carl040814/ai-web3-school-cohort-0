@@ -1,7 +1,7 @@
-# Learning Plan
+# 学习计划
 
-## Overview
+## 概览
 
-Goal: From zero code to Web3 + AI development.
+目标：从零代码起步，掌握 Web3 + AI 开发。
 
-TBD after first course review.
+（看完第一期课程后制定详细计划）

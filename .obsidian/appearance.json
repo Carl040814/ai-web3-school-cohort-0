@@ -1,17 +1,9 @@
 {
   "accentColor": "",
   "cssTheme": "",
-  "enabledPlugins": [],
   "interfaceFontFamily": "",
   "monospaceFontFamily": "",
   "nativeMenus": false,
-  "readableLineLength": true,
-  "showLineNumber": false,
-  "spellcheck": true,
-  "tabSize": 4,
   "theme": "obsidian",
-  "translucency": false,
-  "vault": {
-    "name": "AI × Web3 School"
-  }
+  "translucency": false
 }
